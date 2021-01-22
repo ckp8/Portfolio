@@ -255,6 +255,9 @@ nav{
         z-index:2;
 
     }
+    /* .title{
+        color: var(--clr-accents)
+    } */
     .section__subtitle--intro{
         align-self:start;
         grid-column: -1/1;
